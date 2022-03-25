@@ -28,8 +28,8 @@ namespace models
           
         }
 
-        public DbSet<produto> Produtos { get; set; }
-        public DbSet<vendas> vendas { get; set; }
+        public DbSet<Produtos> Produtos { get; set; }
+        public DbSet<Vendas> vendas { get; set; }
         public DbSet<Clientes> clientes { get; set; }
 
 

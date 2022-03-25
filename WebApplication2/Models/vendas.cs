@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace models
 {
-    public class vendas
+    public class Vendas
     {
         [Key]
         [Required]

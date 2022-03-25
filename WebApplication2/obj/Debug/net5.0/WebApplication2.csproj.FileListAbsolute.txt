@@ -160,3 +160,13 @@ C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Raz
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Clientes\Edit.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Clientes\Index.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Clientes\Create.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Create.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Delete.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Details.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Edit.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Produtos\Index.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendas\Create.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendas\Delete.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendas\Details.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendas\Edit.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendas\Index.cshtml.g.cs
