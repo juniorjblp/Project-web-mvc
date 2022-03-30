@@ -85,7 +85,6 @@ C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\zh-
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
-C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.csproj.AssemblyReference.cache
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.AssemblyInfoInputs.cache
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.AssemblyInfo.cs
@@ -113,7 +112,6 @@ C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Web
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\ref\WebApplication2.dll
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.pdb
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.genruntimeconfig.cache
-C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Home\AdicionarProduto.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Home\RealizaVenda.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\AutoMapper.dll
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\BouncyCastle.Crypto.dll
@@ -170,3 +168,14 @@ C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Raz
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendas\Details.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendas\Edit.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendas\Index.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\Create.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\Delete.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\Details.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\Edit.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\Index.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Create.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Delete.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Details.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Edit.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Index.cshtml.g.cs

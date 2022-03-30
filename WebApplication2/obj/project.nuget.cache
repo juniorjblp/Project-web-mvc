@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "jmAh7Yopmw6CwmqAJl6YkG8uY50Hu8LlyDP8GO0ABGOC8q+k/tB8/dNhP5JgCt81OZZogchL7BN/YsAnz+zzCg==",
+  "dgSpecHash": "kYPzokFrND9D2ZMmEKzFMCTU+fRMeHih6DbfypaljGYUpohauGweg53Yns9SG4F5yY1GrP/dIjqy4ubfOl6aYg==",
   "success": true,
   "projectFilePath": "C:\\Users\\marco\\source\\repos\\WebApplication2\\WebApplication2\\WebApplication2.csproj",
   "expectedPackageFiles": [
@@ -28,10 +28,10 @@
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.15\\microsoft.entityframeworkcore.5.0.15.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.15\\microsoft.entityframeworkcore.abstractions.5.0.15.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.15\\microsoft.entityframeworkcore.analyzers.5.0.15.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.12\\microsoft.entityframeworkcore.design.5.0.12.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.12\\microsoft.entityframeworkcore.relational.5.0.12.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.12\\microsoft.entityframeworkcore.sqlserver.5.0.12.nupkg.sha512",
-    "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.12\\microsoft.entityframeworkcore.tools.5.0.12.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore.design\\5.0.15\\microsoft.entityframeworkcore.design.5.0.15.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\5.0.15\\microsoft.entityframeworkcore.relational.5.0.15.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\5.0.15\\microsoft.entityframeworkcore.sqlserver.5.0.15.nupkg.sha512",
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\5.0.15\\microsoft.entityframeworkcore.tools.5.0.15.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0\\microsoft.extensions.caching.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0\\microsoft.extensions.caching.memory.5.0.0.nupkg.sha512",
     "C:\\Users\\marco\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\5.0.0\\microsoft.extensions.configuration.abstractions.5.0.0.nupkg.sha512",

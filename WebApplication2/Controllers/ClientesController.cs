@@ -45,7 +45,7 @@ namespace WebApplication2.Controllers
 
         // GET: clientes1/Create
         public IActionResult Create()
-        {
+        { 
             return View();
         }
 

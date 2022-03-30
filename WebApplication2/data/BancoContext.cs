@@ -31,6 +31,9 @@ namespace models
         public DbSet<Produtos> Produtos { get; set; }
         public DbSet<Vendas> vendas { get; set; }
         public DbSet<Clientes> clientes { get; set; }
+        public DbSet<Vendedor> vendedor { get; set; }
+        public DbSet<Login> Login { get; set; }
+
 
 
     }

@@ -13,7 +13,6 @@ namespace models
     public class Produtos
     {
         [Key]
-        [Required]
         public int id { get; set; }
         public string nomeProduto { get; set; }
         public int quantidadeProduto { get; set; }
