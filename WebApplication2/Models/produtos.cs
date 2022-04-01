@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
+using WebApplication2.Models;
 
 namespace models
 {
@@ -17,7 +18,7 @@ namespace models
         public string nomeProduto { get; set; }
         public int quantidadeProduto { get; set; }
         public decimal valorProduto { get; set; }
-       // public Clientes Clientes { get; set; }
 
+        public virtual ICollection<Clientes> Cliente { get; set; }
     }
 }

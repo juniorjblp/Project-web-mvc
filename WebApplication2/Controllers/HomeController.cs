@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Logging;
+using models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -13,13 +15,16 @@ namespace WebApplication2.Controllers
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        private BancoContext _context;
+        public HomeController(ILogger<HomeController> logger, BancoContext context)
         {
             _logger = logger;
+            _context = context;
+
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            return View(await _context.Produtos.Include(p => p.Cliente).OrderBy(i => i.nomeProduto).ToListAsync());
         }
 
         public IActionResult AdicionarCliente()

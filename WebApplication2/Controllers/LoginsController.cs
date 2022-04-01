@@ -24,6 +24,18 @@ namespace WebApplication2.Controllers
         {
             return View(await _context.Login.ToListAsync());
         }
+        public Task<IActionResult> DetailsVendedor()
+        {
+            /*var vendedor = new Vendedor();
+            if(vendedor.Username == "root" && vendedor.Senha == "root")
+            {
+
+
+            }*/
+            var vendedor = new VendedorsController(_context);
+            return vendedor.Index();
+        }
+
 
         // GET: Logins/Details/5
         public async Task<IActionResult> Details(int? id)

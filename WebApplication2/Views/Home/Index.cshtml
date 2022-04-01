@@ -1,4 +1,4 @@
-﻿@model models.Produtos
+﻿@model List<models.Produtos>
 
 
 @{
@@ -53,7 +53,10 @@
             <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">
-                    @Html.DisplayFor(model => model.nomeProduto)
+                
+                        @Html.DisplayFor(nome => Model[0].nomeProduto)
+
+                    
                 </h5>
                 <h4>R$1000</h4>
                 <a href="#" class="btn btn-primary">Comprar</a>
@@ -63,7 +66,8 @@
             <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">
-                    @Html.DisplayFor(model => model.nomeProduto)
+                    @Html.DisplayFor(nome => Model[1].nomeProduto)
+
                 </h5>
                 <h4>R$1000</h4>
                 <a href="#" class="btn btn-primary">Comprar</a>
@@ -73,7 +77,8 @@
             <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">
-                    @Html.DisplayFor(model => model.nomeProduto)
+                    @Html.DisplayFor(nome => Model[2].nomeProduto)
+
                 </h5>
                 <h4>R$1000</h4>
                 <a href="#" class="btn btn-primary">Comprar</a>
@@ -82,7 +87,8 @@
         <div class="card col-3 cd" style="width: 18rem;" align="center">
             <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">air jordan 4</h5>
+                <h5 class="card-title">
+                </h5>
                 <h4>R$1000</h4>
                 <a href="#" class="btn btn-primary">Comprar</a>
             </div>

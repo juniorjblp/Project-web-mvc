@@ -171,11 +171,11 @@ C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Raz
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.csproj.AssemblyReference.cache
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\Create.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\Delete.cshtml.g.cs
-C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\Details.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\Edit.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\Index.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Create.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Delete.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Details.cshtml.g.cs
-C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Edit.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Index.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\DetailsVendedor.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Edit.cshtml.g.cs

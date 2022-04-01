@@ -12,7 +12,7 @@ namespace WebApplication2.Controllers
 {
     public class VendedorsController : Controller
     {
-        private readonly BancoContext _context;
+        private static BancoContext _context;
 
         public VendedorsController(BancoContext context)
         {
