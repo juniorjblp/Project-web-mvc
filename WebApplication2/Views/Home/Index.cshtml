@@ -48,83 +48,27 @@
 </div>
 <div class="container">
     <div class="row" align="center">
+        @foreach (var produto in Model)
+        {
+            <div class="card col-3 cd" style="width: 18rem;" align="center">
+                <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
+                <div class="card-body">
+                    <h5 class="card-title">
 
-        <div class="card col-3 cd" style="width: 18rem;" align="center">
-            <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">
-                
-                        @Html.DisplayFor(nome => Model[0].nomeProduto)
+                        @Html.DisplayFor(nome => produto.nomeProduto)
 
-                    
-                </h5>
-                <h4>R$1000</h4>
-                <a href="#" class="btn btn-primary">Comprar</a>
-            </div>
-        </div>
-        <div class="card col-3 cd" style="width: 18rem;" align="center">
-            <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">
-                    @Html.DisplayFor(nome => Model[1].nomeProduto)
 
-                </h5>
-                <h4>R$1000</h4>
-                <a href="#" class="btn btn-primary">Comprar</a>
-            </div>
-        </div>
-        <div class="card col-3 cd" style="width: 18rem;" align="center">
-            <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">
-                    @Html.DisplayFor(nome => Model[2].nomeProduto)
 
-                </h5>
-                <h4>R$1000</h4>
-                <a href="#" class="btn btn-primary">Comprar</a>
+                    </h5>
+                    <h4>R$@Html.DisplayFor(nome => produto.valorProduto)</h4>
+                    <p>Quantidade disponivel: @Html.DisplayFor(nome => produto.quantidadeProduto)</p>
+                    <a href="#" class="btn btn-primary">Comprar</a>
+                </div>
             </div>
-        </div>
-        <div class="card col-3 cd" style="width: 18rem;" align="center">
-            <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">
-                </h5>
-                <h4>R$1000</h4>
-                <a href="#" class="btn btn-primary">Comprar</a>
-            </div>
-        </div>
-        <div class="card col-3 cd" style="width: 18rem;" align="center">
-            <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">air jordan 5</h5>
-                <h4>R$1000</h4>
-                <a href="#" class="btn btn-primary">Comprar</a>
-            </div>
-        </div>
-        <div class="card col-3 cd" style="width: 18rem;" align="center">
-            <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">air jordan 6</h5>
-                <h4>R$1000</h4>
-                <a href="#" class="btn btn-primary">Comprar</a>
-            </div>
-        </div>
-        <div class="card col-3 cd" style="width: 18rem;" align="center">
-            <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">air jordan 7</h5>
-                <h4>R$1000</h4>
-                <a href="#" class="btn btn-primary">Comprar</a>
-            </div>
-        </div>
-        <div class="card col-3 cd" style="width: 18rem;" align="center">
-            <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">air jordan 8</h5>
-                <h4>R$1000</h4>
-                <a href="#" class="btn btn-primary">Comprar</a>
-            </div>
-        </div>
+        }
+
+    
+
     </div>
 </div>
 <div class="text-center">

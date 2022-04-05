@@ -4,34 +4,29 @@
     ViewData["Title"] = "Create";
 }
 
-<h1>Create</h1>
+<h1>Adicione um produto</h1>
 
-<h4>Produtos</h4>
 <hr />
-<div class="row">
-    <div class="col-md-4">
-        <form asp-action="Create">
-            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
-            <div class="form-group">
-                <label asp-for="nomeProduto" class="control-label"></label>
-                <input asp-for="nomeProduto" class="form-control" />
-                <span asp-validation-for="nomeProduto" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="quantidadeProduto" class="control-label"></label>
-                <input asp-for="quantidadeProduto" class="form-control" />
-                <span asp-validation-for="quantidadeProduto" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <label asp-for="valorProduto" class="control-label"></label>
-                <input asp-for="valorProduto" class="form-control" />
-                <span asp-validation-for="valorProduto" class="text-danger"></span>
-            </div>
-            <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
-            </div>
-        </form>
-    </div>
+<div class="card col-3 cd" style="width: 22rem;" align="center">
+    <img src="~/img/air-jordan-1-5-official-images-1.png" class="card-img-top" alt="Alternate Text" />
+    <form asp-action="Create">
+        <div class="card-body">
+            <p class="card-title">
+
+            <p>Adicione o nome do produto: </p>
+            <input asp-for="nomeProduto" class="form-control" />
+            </p>
+            <p>
+            <p>Adicione o valor do produto</p>
+            <input asp-for="valorProduto" class="form-control" />
+
+            </p>
+            <p>Adicione a quantidade de produtos disponiveis: </p>
+            <input asp-for="quantidadeProduto" class="form-control" />
+
+            <input type="submit" value="Create" class="btn btn-primary" />
+        </div>
+    </form>
 </div>
 
 <div>

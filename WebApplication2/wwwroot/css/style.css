@@ -24,8 +24,11 @@
     line-height: 50px;
 }
 
-.cd{
+.cd {
     margin-bottom: 50px;
+    margin: auto;
+    width: 100%;
+    max-width: 500px;
 }
 
 .titulo a{
