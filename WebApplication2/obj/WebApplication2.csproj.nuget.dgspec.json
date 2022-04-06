@@ -50,6 +50,14 @@
               "target": "Package",
               "version": "[11.0.1, )"
             },
+            "Microsoft.AspNetCore.Http": {
+              "target": "Package",
+              "version": "[2.2.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.15, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.15, )"
@@ -71,6 +79,10 @@
             "MySql.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.10, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
             }
           },
           "imports": [

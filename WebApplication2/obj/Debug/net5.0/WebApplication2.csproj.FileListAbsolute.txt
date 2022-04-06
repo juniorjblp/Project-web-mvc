@@ -179,3 +179,15 @@ C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Raz
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Index.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\DetailsVendedor.cshtml.g.cs
 C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Logins\Edit.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Vendedors\LoginVendedor.cshtml.g.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\WebApplication2.StaticWebAssets.xml
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\staticwebassets\WebApplication2.StaticWebAssets.xml
+C:\Users\marco\source\repos\WebApplication2\WebApplication2\obj\Debug\net5.0\Razor\Views\Shared\CreateLayount.cshtml.g.cs

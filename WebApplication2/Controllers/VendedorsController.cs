@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using WebApplication2.Models;
 using models;
+using Microsoft.AspNetCore.Identity.UI.V4.Pages.Account.Internal;
 
 namespace WebApplication2.Controllers
 {
@@ -148,6 +149,20 @@ namespace WebApplication2.Controllers
         private bool VendedorExists(int id)
         {
             return _context.vendedor.Any(e => e.Id == id);
+        }
+
+        [HttpGet]
+        public IActionResult LoginVendedor([Bind("Username,Senha")] Vendedor vendedor)
+        {
+            if (vendedor.Username == "root" & vendedor.Senha == "root")
+            {
+//                RegisterModel model = new RegisterModel();
+
+                return View("CreateLayount");
+              //  return View();
+            }
+    
+           return NotFound();
         }
     }
 }
